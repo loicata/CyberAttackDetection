@@ -1,0 +1,31 @@
+# Environment
+.env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Data (runtime generated)
+data/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Coverage
+htmlcov/
+.coverage
+
+# Large binary dependencies (download during build)
+installer/deps/*.exe
+installer/deps/*.msi
+installer/deps/*.zip

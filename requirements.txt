@@ -1,0 +1,12 @@
+psutil>=6.0.0
+watchdog>=4.0.0
+dnspython>=2.6.0
+requests>=2.31.0
+rich>=13.0.0
+python-dotenv>=1.0.0
+Jinja2>=3.1.0
+ijson>=3.2.0
+customtkinter>=5.2.0
+tomli_w>=1.0.0
+pystray>=0.19.0
+Pillow>=10.0.0
